@@ -571,3 +571,21 @@ button.cta-button:hover {
     border-radius: 10px;
 }
 
+.client-details h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000; /* Changed from #fff to #000000 */
+}
+
+.client-details p {
+    font-size: 14px;
+    color: #000000; /* Changed from #ccc to #000000 */
+}
+
+.feedback-text {
+    font-size: 16px;
+    color: #000000; /* Changed from #fff to #000000 */
+    font-style: italic;
+    line-height: 1.6;
+}
+
